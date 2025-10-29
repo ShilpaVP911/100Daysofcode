@@ -1,4 +1,4 @@
-month= int(input("Enter the month"))
+month= int(input("Enter the month "))
 if month in range(1,4):
     print("First Quarter")
 elif month in range(4,7):
